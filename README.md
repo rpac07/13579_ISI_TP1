@@ -37,8 +37,5 @@ O objetivo principal deste trabalho é normalizar uma base de dados de filmes, o
 
 ## Conclusão
 
-Este projeto demonstra como o KNIME pode ser usado para normalizar dados e gerar visualizações gráficas de uma forma eficiente e escalável. O uso de uma base de dados de filmes como exemplo permite explorar dados reais e obter insights valiosos sobre a indústria cinematográfica.
+Este projeto demonstra como o KNIME pode ser usado para normalizar dados e gerar visualizações gráficas de uma forma eficiente e escalável. O uso de uma base de dados de filmes como exemplo permite explorar dados reais e obter insights importantes.
 
-## Contacto
-
-Para mais informações ou dúvidas sobre o projeto, não hesites em entrar em contacto.
